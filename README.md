@@ -14,6 +14,11 @@ https://youtu.be/mvJR-IZ9x04
 </a>
 
 
+## Data Stack
+
+<img width="856" alt="image" src="https://github.com/azharizz/realtime_car_pricing_prediction/assets/45253059/fb57e131-b003-4b3c-9fc7-4ac22fcdb906">
+
+
 
 Note Step for Azhar:
 
