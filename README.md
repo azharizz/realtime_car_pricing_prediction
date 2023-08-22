@@ -3,6 +3,16 @@
 ## **Note: In Free Trial GCP, cannot inject from spark to bigquery in streaming mode. So i make alternatives using Google Cloud Functions to make it streaming mode**
 
 
+For Detail Information on : https://azharizz.my.canva.site/
+
+OR
+
+Visit this Youtube Video :
+https://youtu.be/Urmqulp2EZk
+<a href="https://youtu.be/mvJR-IZ9x04" target="_blank">
+ <img src="https://img.youtube.com/vi/mvJR-IZ9x04/maxresdefault.jpg" alt="Watch the video" width="720" height="480" border="10" />
+</a>
+
 
 
 Note Step for Azhar:
